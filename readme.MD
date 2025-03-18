@@ -1,5 +1,3 @@
-Here’s an updated version of your `README.md` file, tailored to reflect the changes in your implementation and provide detailed step-by-step usage instructions. I’ve also added new sections to make it more comprehensive and user-friendly.
-
 ---
 
 # ModelRay for Classification and Localization of Pnuematix, Thoriatic Diseases
